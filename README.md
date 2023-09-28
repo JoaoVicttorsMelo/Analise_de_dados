@@ -3,7 +3,7 @@
 
 <!-- Descrição do Projeto -->
 <p align="center">
-  Um projeto incrível de automação web escrito em Python utilizando a biblioteca PyAutoGUI e Pandas.
+  Um projeto incrível de criação de Dashboards
 </p>
 
 <!-- Badges -->
