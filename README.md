@@ -34,3 +34,13 @@ Meritos totais a #hashtag-treinamentos sobre a ideia do projeto, eu só melhorei
 ## Contato
 
 Se você deseja entrar em contato, você pode me alcançar em [joaovicttorsilveiramelo@gmail.com](joaovicttorsilveiramelo@gmail.com).
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Atividades Recentes [![Time period](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_timeline.svg)](https://github.com/JoaoVicttorsMelo/Analise_de_dados/commits)
+[![Issue status graph](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_issues.svg)](https://github.com/JoaoVicttorsMelo/Analise_de_dados/issues)
+[![Pull request status graph](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_prs.svg)](https://github.com/JoaoVicttorsMelo/Analise_de_dados/pulls)
+[![Trending topics](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_words.svg)](https://github.com/JoaoVicttorsMelo/Analise_de_dados/commits)
+[![Top contributors](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_users.svg)](https://github.com/JoaoVicttorsMelo/Analise_de_dados/graphs/contributors)
+[![Activity map](https://images.repography.com/42450861/JoaoVicttorsMelo/Analise_de_dados/recent-activity/tSHJFA-t312bT06CLiOghRuqa8wSeLcPZYeLjkDS33M/i9zc_WYbtX9CCXULRvTgaD4D1iKF9kDSE-siAWAaGvY_map.svg)](https://github.com/JoaoVicttorsMelo/Analise_de_dados/commits)
+
